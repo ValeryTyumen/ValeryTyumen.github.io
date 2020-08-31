@@ -9,51 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+A pdf document can be found [here](https://valerytyumen.github.io/files/cv.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Ural Federal University, 2017
+* M.S. in Statistical Learning Theory, Skoltech & Higher School of Economics, 2019
+* Data Science diploma from Yandex School of Data Analysis, 2015-2017
+* Ph.D in Engineering, University of Cambridge, 2019-present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Intern
+  * Samsung AI Center Moscow
+  * Translation of a 3D human pose into a high-resolution image of a person using deep learning
+  * Supervisor: Victor Lempitsky
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2017: SWE Intern
+  * Google, London
+  * Adding new features for a Sibyl classifier for large-scale internal machine learning task.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Summer 2016: Open-source Developer
+  * Google Summer of Code
+  * Implementing Kim filter (extension of Kalman filter) for Statsmodels package (statistics and econometrics in Python)
+
+* Summer 2015 and 2016-2017: SWE Intern and part-time engineer
+  * SKB Kontur, Yekaterinburg, Russia
+  * Named entity recongnition and web page annotation for Kontur.Focus service
