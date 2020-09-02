@@ -1,9 +1,16 @@
 ---
-title: "Masked Language Modeling for Proteins via Linearly Scalable Long-Context Transformers"
+title: "Inference and Sampling of -free Ising Models"
 collection: publications
-date: 2009-10-01
+permalink: /publication/inference
+excerpt: ''
+date: 2019-05-01
+venue: 'ICML'
+paperurl: 'http://proceedings.mlr.press/v97/likhosherstov19a/likhosherstov19a.pdf'
+citation: 'Likhosherstov, Valerii, Yury Maximov, and Misha Chertkov. "Inference and Sampling of $ K_33 $-free Ising Models." In International Conference on Machine Learning, pp. 3963-3972. PMLR, 2019.'
 ---
+We call an Ising model tractable when it is possible to compute its partition function value (statistical inference) in polynomial time. The tractability also implies an ability to sample configurations of this model in polynomial time. The notion of tractability extends the basic case of planar zero-field Ising models. Our starting point is to describe algorithms for the basic case, computing partition function and sampling efficiently. Then, we extend our tractable inference and sampling algorithms to models whose triconnected components are either planar or graphs of O(1) size. In particular, it results in a polynomial-time inference and sampling algorithms for K33-(minor)-free topologies of zero-field Ising models—a generalization of planar graphs with a potentially unbounded genus.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://proceedings.mlr.press/v97/likhosherstov19a/likhosherstov19a.pdf)
+
+Recommended citation: Likhosherstov, Valerii, Yury Maximov, and Misha Chertkov. "Inference and Sampling of $ K_33 $-free Ising Models." In International Conference on Machine Learning, pp. 3963-3972. PMLR, 2019.
