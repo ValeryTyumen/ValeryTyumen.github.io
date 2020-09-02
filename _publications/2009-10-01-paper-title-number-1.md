@@ -1,5 +1,5 @@
 ---
-title: "Inference and Sampling of -free Ising Models"
+title: "Inference and Sampling of K33-free Ising Models"
 collection: publications
 permalink: /publication/inference
 excerpt: ''
