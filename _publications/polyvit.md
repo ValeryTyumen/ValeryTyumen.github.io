@@ -8,4 +8,6 @@ venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2111.12993'
 ---
 
-Recommended citation: 'Valerii Likhosherstov, Anurag Arnab, Krzysztof Choromanski, Mario Lucic, Yi Tay, Adrian Weller and Mostafa Dehghani. "PolyViT: Co-training Vision Transformers on Images, Videos and Audio." Arxiv:2111.12993 (2021).'
+[https://arxiv.org/abs/2111.12993](https://arxiv.org/abs/2111.12993)
+
+Valerii Likhosherstov, Anurag Arnab, Krzysztof Choromanski, Mario Lucic, Yi Tay, Adrian Weller and Mostafa Dehghani.
