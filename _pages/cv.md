@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* March 2021 - March 2022: Student Researcher
+* March 2021 - March 2022: Student Researcher (part time)
   * Google Brain
   * Efficient and multimodal Transformers
   * Hosts: Mario Lucic and Krzysztof Choromanski
