@@ -20,6 +20,11 @@ Education
 
 Work experience
 ======
+* March 2021 - March 2022: Student Researcher
+  * Google Brain
+  * Efficient and multimodal Transformers
+  * Hosts: Mario Lucic and Krzysztof Choromanski
+
 * Summer 2018: Research Intern
   * Samsung AI Center Moscow
   * Translation of a 3D human pose into a high-resolution image of a person using deep learning
