@@ -8,4 +8,6 @@ venue: 'ICLR'
 paperurl: 'https://arxiv.org/abs/2009.14794'
 ---
 
-Recommended citation: 'Choromanski, Krzysztof, Valerii Likhosherstov, David Dohan, Xingyou Song, Jared Davis, Tamas Sarlos, Peter Hawkins, David Belanger, Lucy Colwell, and Adrian Weller. "Rethinking Attention with Performer." ICLR 2021.'
+[https://arxiv.org/abs/2009.14794](https://arxiv.org/abs/2009.14794)
+
+Krzysztof Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Jared Davis, Tamas Sarlos, Peter Hawkins, David Belanger, Lucy Colwell, and Adrian Weller.
