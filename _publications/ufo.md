@@ -8,4 +8,6 @@ venue: 'ICML 2021'
 paperurl: 'https://arxiv.org/abs/2106.02487'
 ---
 
-Recommended citation: 'Likhosherstov, Valerii, Xingyou Song, Krzysztof Choromanski, Jared Davis, and Adrian Weller. "Debiasing a First-order Heuristic for Approximate Bi-level Optimization." ICML 2021.'
+[https://arxiv.org/abs/2106.02487](https://arxiv.org/abs/2106.02487)
+
+Valerii Likhosherstov, Xingyou Song, Krzysztof Choromanski, Jared Davis, and Adrian Weller.
