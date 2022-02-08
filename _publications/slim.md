@@ -8,4 +8,6 @@ venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/2012.11346'
 ---
 
-Recommended citation: 'Likhosherstov, Valerii, Krzysztof Choromanski, Jared Davis, Xingyou Song and Adrian Weller. "Sub-Linear Memory: How to Make Performers SLiM." NeurIPS 2021.'
+[https://arxiv.org/abs/2012.11346](https://arxiv.org/abs/2012.11346)
+
+Valerii Likhosherstov, Krzysztof Choromanski, Jared Davis, Xingyou Song and Adrian Weller.
