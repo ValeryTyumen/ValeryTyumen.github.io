@@ -8,5 +8,6 @@ venue: 'Arxiv'
 paperurl: 'https://arxiv.org/pdf/2111.12993'
 ---
 
-Recommended citation: 'Valerii Likhosherstov, Krzysztof Choromanski, and Adrian Weller. "On the Expressive Power of Self-Attention Matrices." Arxiv:2111.12993
-.'
+[https://arxiv.org/pdf/2111.12993](https://arxiv.org/pdf/2111.12993)
+
+Valerii Likhosherstov, Krzysztof Choromanski, and Adrian Weller.
