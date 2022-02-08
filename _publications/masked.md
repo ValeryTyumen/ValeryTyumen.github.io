@@ -1,11 +1,11 @@
 ---
-title: "Masked Language Modeling for Proteins via Linearly Scalable Long-Context Transformers"
+title: "Rethinking Attention with Performers"
 collection: publications
 permalink: /publication/masked
 excerpt: ''
-date: 2020-08-01
-venue: 'Arxiv'
-paperurl: 'https://arxiv.org/pdf/2006.03555'
+date: 2021-01-01
+venue: 'ICLR'
+paperurl: 'https://arxiv.org/abs/2009.14794'
 ---
 
-Recommended citation: 'Choromanski, Krzysztof, Valerii Likhosherstov, David Dohan, Xingyou Song, Jared Davis, Tamas Sarlos, David Belanger, Lucy Colwell, and Adrian Weller. "Masked Language Modeling for Proteins via Linearly Scalable Long-Context Transformers." arXiv preprint arXiv:2006.03555 (2020).'
+Recommended citation: 'Choromanski, Krzysztof, Valerii Likhosherstov, David Dohan, Xingyou Song, Jared Davis, Tamas Sarlos, Peter Hawkins, David Belanger, Lucy Colwell, and Adrian Weller. "Rethinking Attention with Performer." ICLR 2021.'
