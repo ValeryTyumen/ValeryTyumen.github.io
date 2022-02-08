@@ -10,4 +10,4 @@ paperurl: 'https://arxiv.org/pdf/2004.08675'
 
 [https://arxiv.org/pdf/2004.08675](https://arxiv.org/pdf/2004.08675)
 
-Likhosherstov, Valerii, Jared Davis, Krzysztof Choromanski, and Adrian Weller.
+Valerii Likhosherstov, Jared Davis, Krzysztof Choromanski, and Adrian Weller.
