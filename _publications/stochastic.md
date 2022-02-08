@@ -8,4 +8,6 @@ venue: 'ICML'
 paperurl: 'https://arxiv.org/pdf/2003.13563'
 ---
 
-Recommended citation: 'Choromanski, Krzysztof, David Cheikhi, Jared Davis, Valerii Likhosherstov, Achille Nazaret, Achraf Bahamou, Xingyou Song et al. "Stochastic Flows and Geometric Optimization on the Orthogonal Group." ICML 2020.'
+[https://arxiv.org/pdf/2003.13563](https://arxiv.org/pdf/2003.13563)
+
+Krzysztof Choromanski, David Cheikhi, Jared Davis, Valerii Likhosherstov, Achille Nazaret, Achraf Bahamou, Xingyou Song, Mrugank Akarte, Jack Parker-Holder, Jacob Bergquist, Yuan Gao, Aldo Pacchiano, Tamas Sarlos, Adrian Weller, Vikas Sindhwani.
