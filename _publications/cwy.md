@@ -8,4 +8,6 @@ venue: 'AISTATS'
 paperurl: 'https://arxiv.org/pdf/2004.08675'
 ---
 
-Recommended citation: 'Likhosherstov, Valerii, Jared Davis, Krzysztof Choromanski, and Adrian Weller. "CWY Parametrization for Scalable Learning of Orthogonal and Stiefel Matrices." AISTATS 2021.'
+[https://arxiv.org/pdf/2004.08675](https://arxiv.org/pdf/2004.08675)
+
+Likhosherstov, Valerii, Jared Davis, Krzysztof Choromanski, and Adrian Weller.
