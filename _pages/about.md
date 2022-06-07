@@ -12,4 +12,4 @@ I'm a PhD student at [Cambridge machine learning group](http://mlg.eng.cam.ac.uk
 
 I'm interested in large-scale machine learning, time-, memory-efficient deep learning and efficient algorithms. In particular, I'm interested in Transformer networks and how to improve them, but also beyond that. My CV and publications can be found on this website.
 
-In my free time, I enjoy reading (Dostoevsky and Tolstoy are among my favourite authors), running and drawing in a sketchbook. From time to time I compulsively buy Lego, also I like going to London on Saturdays and watching Adam Sandler films on Netflix.
+In my free time, I enjoy reading (Dostoevsky and Tolstoy are among my favourite authors), running, drawing in a sketchbook and listening to russian hip-hop. From time to time I compulsively buy Lego, also I like going to London on Saturdays and watching Adam Sandler films on Netflix.
